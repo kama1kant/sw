@@ -1,12 +1,9 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 import '../App.css';
 
@@ -45,15 +42,18 @@ function NavbarComponent() {
 }
 
 function Body() {
+    useEffect(() => {
+        document.title = 'Solys';
+    }, []);
     return (
         <Container className="text-start text-light">
             <div className="mt-5">
-            <Row>
-                <Col md={12}>
+                <Row>
+                    <Col md={12}>
                         <p className="fs-11">Decentralized Banking</p>
-                </Col>
-                <Col md="auto">
-                    {/* <p className="sentence">
+                    </Col>
+                    <Col md="auto">
+                        {/* <p className="sentence">
                         <span className="slidingVertical">
                             <span>Create single-use wallets</span>
                             <span>Manage (multi-sig, mpc, hardware) wallets</span>
@@ -63,10 +63,10 @@ function Body() {
                         </span>
                     </p> */}
                         <p className="fs-3">Create single-use wallets, manage (multi-sig, mpc, hardware) wallets, automatic swapping, undo transactions & much more.</p>
-                </Col>
-            </Row>
-            <Row className="mt-5">
-                <Col md="auto">
+                    </Col>
+                </Row>
+                <Row className="mt-5">
+                    <Col md="auto">
                         <InputGroup className="mb-3">
                             {/* <Form.Control
                                 placeholder="Enter Email"
@@ -78,9 +78,9 @@ function Body() {
                                 Get Early Access
                             </Button>
                         </InputGroup>
-                </Col>
-            </Row>
-        </div>
+                    </Col>
+                </Row>
+            </div>
         </Container>
     );
 }
