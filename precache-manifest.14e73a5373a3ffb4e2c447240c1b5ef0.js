@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/sw/static/js/runtime~main.3dacf528.js"
   },
   {
-    "revision": "91e0638dac19aba2539d2b8b2a7981e8",
-    "url": "/sw/static/media/GT-Walsheim-Bold.91e0638d.ttf"
-  },
-  {
     "revision": "844324dc83d98980285a9ab8f3dcb5f0",
     "url": "/sw/static/media/Aeonik-Regular.844324dc.otf"
+  },
+  {
+    "revision": "91e0638dac19aba2539d2b8b2a7981e8",
+    "url": "/sw/static/media/GT-Walsheim-Bold.91e0638d.ttf"
   },
   {
     "revision": "1082bfafd79b7cd26bf5626e290206a5",
