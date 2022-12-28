@@ -1,0 +1,18 @@
+{
+  "main.css": "/sw/static/css/main.a0be0744.chunk.css",
+  "main.js": "/sw/static/js/main.7b280027.chunk.js",
+  "main.js.map": "/sw/static/js/main.7b280027.chunk.js.map",
+  "static/js/1.5cc56db2.chunk.js": "/sw/static/js/1.5cc56db2.chunk.js",
+  "static/js/1.5cc56db2.chunk.js.map": "/sw/static/js/1.5cc56db2.chunk.js.map",
+  "static/css/2.4ab53b3c.chunk.css": "/sw/static/css/2.4ab53b3c.chunk.css",
+  "static/js/2.3b530123.chunk.js": "/sw/static/js/2.3b530123.chunk.js",
+  "static/js/2.3b530123.chunk.js.map": "/sw/static/js/2.3b530123.chunk.js.map",
+  "runtime~main.js": "/sw/static/js/runtime~main.3dacf528.js",
+  "runtime~main.js.map": "/sw/static/js/runtime~main.3dacf528.js.map",
+  "static/media/App.css": "/sw/static/media/Aeonik-Regular.844324dc.otf",
+  "static/css/2.4ab53b3c.chunk.css.map": "/sw/static/css/2.4ab53b3c.chunk.css.map",
+  "static/css/main.a0be0744.chunk.css.map": "/sw/static/css/main.a0be0744.chunk.css.map",
+  "index.html": "/sw/index.html",
+  "precache-manifest.9ee90b434bc09b1b339e6fda3f7f43b3.js": "/sw/precache-manifest.9ee90b434bc09b1b339e6fda3f7f43b3.js",
+  "service-worker.js": "/sw/service-worker.js"
+}
