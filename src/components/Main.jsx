@@ -1,13 +1,13 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Portfolio from './CominSoon';
+import ComingSoon from './CominSoon';
 
 
 function Main() {
     return (
         <div>
             <Routes>
-                <Route path="/" element={<Portfolio />} />
+                <Route path="/" element={<ComingSoon />} />
             </Routes>
         </div>
     )

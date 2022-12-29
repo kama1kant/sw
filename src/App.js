@@ -1,16 +1,17 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 import Main from './components/Main';
+import ComingSoon from './components/CominSoon';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
       <div className="App">
         {
           <div>
-            <Main />
-          </div>
+             <Main />
+           </div>
         }
       </div>
     </BrowserRouter>
