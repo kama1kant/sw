@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "94230d1db3c31221e589",
-    "url": "/static/css/main.2c53def7.chunk.css"
+    "revision": "05c7fd2e269cb52a2701",
+    "url": "/static/css/main.ff85c621.chunk.css"
   },
   {
-    "revision": "94230d1db3c31221e589",
-    "url": "/static/js/main.94230d1d.chunk.js"
+    "revision": "05c7fd2e269cb52a2701",
+    "url": "/static/js/main.05c7fd2e.chunk.js"
   },
   {
     "revision": "da8cc06341228847bbb1",
@@ -24,15 +24,15 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.73ca3143.js"
   },
   {
-    "revision": "844324dc83d98980285a9ab8f3dcb5f0",
-    "url": "/static/media/Aeonik-Regular.844324dc.otf"
-  },
-  {
     "revision": "91e0638dac19aba2539d2b8b2a7981e8",
     "url": "/static/media/GT-Walsheim-Bold.91e0638d.ttf"
   },
   {
-    "revision": "af4849ba944ba6d9197a39367cb8c4a7",
+    "revision": "844324dc83d98980285a9ab8f3dcb5f0",
+    "url": "/static/media/Aeonik-Regular.844324dc.otf"
+  },
+  {
+    "revision": "061a556a7c8b6c60ee7e734a03be3187",
     "url": "/index.html"
   }
 ];
