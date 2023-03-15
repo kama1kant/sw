@@ -22,7 +22,7 @@ body {
 
 .fs-11{
   font-size: 72px;
-  background: linear-gradient(to right, #fdeff9, #ec38bc, #ad36ff, #03001e);
+  background: linear-gradient(to right, #fdeff9, #ec38bc, #ad36ff, #4939d7);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

@@ -50,7 +50,7 @@ function Body() {
             <div className="mt-5">
                 <Row>
                     <Col md={12}>
-                        <p className="fs-11">Decentralized Banking</p>
+                        <p className="fs-11">Security infrastructure for crypto wallets</p>
                     </Col>
                     <Col md="auto">
                         {/* <p className="sentence">
@@ -62,7 +62,7 @@ function Body() {
                             <span>Send, Receive, Swap, Bridge tokens</span>
                         </span>
                     </p> */}
-                        <p className="fs-3">Create single-use wallets, manage (multi-sig, mpc, hardware) wallets, automatic swapping, undo transactions & much more.</p>
+                        <p className="fs-3">Hardware wallet level security with your existing software wallets.</p>
                     </Col>
                 </Row>
                 <Row className="mt-5">
